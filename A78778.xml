@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Majesties desires to His Excellencie Sir Thomas Fairfax; concerning His Majesties royall person, and the proceedings of the army in their present design. Together with ten propositions propounded to the Honourable Houses of Parliament, by his Excellency, in behalf of the whole army; wherein is set forth, their resolution in this present design, their determination concerning the Kings Majesty and his royall posterity, and their desires about the vast sums of the kingdome. Likewise the resolution of both Houses for disposal of the Kings Majesties royall person.</title>
+            <author>Burch, W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78778</idno>
+            <idno type="STC">Wing C2299</idno>
+            <idno type="STC">Thomason E393_4</idno>
+            <idno type="STC">ESTC R201588</idno>
+            <idno type="EEBO-CITATION">99862087</idno>
+            <idno type="PROQUEST">99862087</idno>
+            <idno type="VID">160296</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78778)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160296)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E393[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Majesties desires to His Excellencie Sir Thomas Fairfax; concerning His Majesties royall person, and the proceedings of the army in their present design. Together with ten propositions propounded to the Honourable Houses of Parliament, by his Excellency, in behalf of the whole army; wherein is set forth, their resolution in this present design, their determination concerning the Kings Majesty and his royall posterity, and their desires about the vast sums of the kingdome. Likewise the resolution of both Houses for disposal of the Kings Majesties royall person.</title>
+                  <author>Burch, W.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Wilkinson.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Iune 17. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In fact a letter, dated and signed: Redburn, Iune. 15. W. Burch.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671.</term>
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160296:1" rendition="simple:additions"/>
+            <p>The Kings MAJESTIES DESIRES TO His Excellencie Sir <hi>Thomas Fairfax;</hi>
+            </p>
+            <p>CONCERNING His Majeſties Royall Perſon, and the pro<g ref="char:EOLhyphen"/>ceedings of the Army in their preſent Deſign.</p>
+            <p>Together with Ten Propoſitions propounded to the Hono<g ref="char:EOLhyphen"/>rable Houſes of Parliament, by his Excellency, in behalf of the whole Army; wherein is ſet forth, their Re<g ref="char:EOLhyphen"/>ſolution in this preſent Deſign, their determina<g ref="char:EOLhyphen"/>tion conc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rning the Kings Majeſty and his Royall Poſterity, and their deſires about the vaſt ſums of the Kingdome.</p>
+            <p>Likewiſe the Reſolution of both Houſes for diſpoſal of the Kings Majeſties Royall Perſon.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. Wilkinſon. Iune</hi> 17. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160296:2"/>
+            <pb facs="tcp:160296:2"/>
+            <head>The Kings MAJESTIES <hi>Deſires</hi> and <hi>Propoſitions</hi> To His Excellency Sir <hi>Thomas Fairfax,</hi> concerning the preſervation and ſafety of His Majeſties Royall Perſon.</head>
+            <opener>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>HAving by my laſt intimated unto you the reſo<g ref="char:EOLhyphen"/>lution and deſires of the Army, being the chie<g ref="char:EOLhyphen"/>feſt particulars upon which we then inſiſted, I ſhall breviate my ſelf (at this inſtant) in thoſe occurrents, &amp; (briefly) inſtance the late actions and proceedings of the Armie, touching their juſt Rights and Fundamen<g ref="char:EOLhyphen"/>tall Liberties of themſelves and the Kingdome, to the Honourable Houſes of Parli<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ment aſſembled at weſt<g ref="char:EOLhyphen"/>minſter;
+<pb facs="tcp:160296:3"/> but before I proceed to the main branch, bee pleaſed to take notice of one thing very remarkable, which I will remonſtrate unto you, as followeth.</p>
+            <p>On Munday night about eight of the clock, we were advertiſed, that his Majeſty had lately ſent a meſſage to the Generall, deſiring, Firſt, that Hee may reſide at Newmarket Secondly, That all differences may be compoſed in love, without any more bloud-ſhed. A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d thirdly, that His Royall Perſon may bee preſerved with honour and ſafety.</p>
+            <p>His Majeſtie remaines (as y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t) at Newmarket, u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>der the ſame command as formerly, Col Whalley commanding in chiefe, but ſome flying rumours, with unfortunate wings, doth daily make their approach within our Campe, inſomuch that divers of the Soul<g ref="char:EOLhyphen"/>dierie (both Horſe and Foot) are much perplexed, to ſee and behold the incre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe of diviſion and diſcord, in the hearts of thoſe, who formerly were united as one man, with one heart and one mind, For ſome part of the Souldiery deſires that all things may be compo<g ref="char:EOLhyphen"/>ſed in love, and that his Majeſty may reſide and bee diſpoſed of, according to the wil and pleaſure of both houſes of Parliament. But the major part are likely to prevaile in that particular. God grant that all diffe<g ref="char:EOLhyphen"/>rences may be ſpeedily compoſed, and the Kingdome ſet, that ſo Peace and Truth may flouriſh within this diſtreſſed and languiſhing Kingdome.</p>
+            <p>But to be briefe (Time drawing to a period) I ſhall now inſiſt upon the Reſolution and Repreſentation of the Armie, drawn up into eight Heads, and to be com<g ref="char:EOLhyphen"/>municated to the Honourable Houſes of Parliament which are as followeth:</p>
+            <div type="part">
+               <pb facs="tcp:160296:3"/>
+               <head>The laſt Propoſitions, propoſed by his Ex<g ref="char:EOLhyphen"/>cellency Sir <hi>Thomas Fairfax,</hi> to both hou<g ref="char:EOLhyphen"/>ſes of Parliament.</head>
+               <p n="1">I. THat the Houſes may be ſpeedily purged of ſuch mem<g ref="char:EOLhyphen"/>bers, as for their Delinquencie, or for Corruptions, or a<g ref="char:EOLhyphen"/>buſe to the State, or undue elections, ought not to ſit there; whereof the late elections in <hi>Cornwall Wales,</hi> &amp; other parts of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Kingdome afford to many examples, to the great prejudice of the peoples freedome in the ſaid Elections.</p>
+               <p n="2">II. That thoſe perſons who have in the unjuſt and high pro<g ref="char:EOLhyphen"/>ceedings againſt the Army appeared to have the will, t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e confidence, credit, and power, to abuſe the Parliament and Army, &amp; indanger the Kingdom in carrying on ſuch things againſt us (while an Army) may be ſome way ſpeedily diſa<g ref="char:EOLhyphen"/>bled from doing the like or worſe to us (when disbanded, &amp; diſpier<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed, and in the condition of private men) or to other the free born people of <hi>England</hi> in the ſame condition with us, and that for that purpoſe, the ſame perſons may not con<g ref="char:EOLhyphen"/>tinue in the ſame power (eſpecially as our and the King<g ref="char:EOLhyphen"/>domes Ju ges in the higheſt truſt) but may be made in<g ref="char:EOLhyphen"/>capable thereof for future.</p>
+               <p n="3">III. That ſome determinate period of time may be ſet, for the continuance of this and future Parliaments, beyond which, none ſhall continue, and upon which new writs may of courſe iſſue out, and new elections ſucceſſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ely take place, according to the intent of the Bill for Triennall Par<g ref="char:EOLhyphen"/>liaments.</p>
+               <pb facs="tcp:160296:4"/>
+               <p n="4">IV. That ſecure proviſion may be made for the continuance of future Parliaments: ſo that they may not be adjournable or diſſolvable at the Kings pleaſure, or any other wayes, then by their own conſent during their reſpective periods, b<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> at thoſe periods each Parliament to determina of courſe as be<g ref="char:EOLhyphen"/>fore. This we deſire may be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow provided for (if it may be) ſo as to put it out of all diſpute for future, though we think of right it ought not to have been otherwiſe before. And thus a firme foundation being laid in the authority and con<g ref="char:EOLhyphen"/>ſtitution of Parliaments for the hopes, at leaſt, of common and equall right, and freedome to our ſelves, and all the free born people of this Land, we ſhall hereby for our parts free<g ref="char:EOLhyphen"/>ly and cheerfully commit our ſtocke or ſhare of intereſt in this Kingdome, into this common bottome of Parliaments. And though it may (for our particulars) go ill with us in the voyage, yet we ſhall thus hope (if right be with us) to fare better in another.</p>
+               <p n="5">V. That theſe things may be provided for by Bill, or Ordi<g ref="char:EOLhyphen"/>nance of Parliament, to which the Royal aſcent may be de<g ref="char:EOLhyphen"/>ſired, and when his Majeſty in theſe things, and what elſe ſhall be propoſed by the Parliament neceſſary for ſecuring the rights and liberties of the people and for ſetling the Mi<g ref="char:EOLhyphen"/>litia and peace of the Kingdome, ſhall have given his con<g ref="char:EOLhyphen"/>currence to put them paſt diſpute we ſhall then deſire that the Rights of his Maieſty and his Poſterity may be conſi<g ref="char:EOLhyphen"/>dered of, and ſetled in all things, ſo farre as may conſiſt with the right and freedome of the Subject, and with the ſecurity of the ſame for future.</p>
+               <p n="6">VI. We deſire that the right &amp; freedome of the people to re<g ref="char:EOLhyphen"/>preſent to the Parl by way of humble petition, their grie<g ref="char:EOLhyphen"/>vances (in ſuch things as cannot otherwiſe be remedied then by Parliament) be cleered and vindicated: That all ſuch grievances of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he people may be received, and admitted in<g ref="char:EOLhyphen"/>to conſideration, and put into an equitable and ſpeedy way,
+<pb facs="tcp:160296:4"/> to be heard, examined, and redreſſed (if they appeare reall) and that in ſuch things for which men have remedy by law, they may be freely left to the benefit of Law, and the re<g ref="char:EOLhyphen"/>gulated courſe of Juſtice without interruption or checke from the Parliament, except in caſe of things done upon the exigency of war, or for the ſervice and benefit of the Par<g ref="char:EOLhyphen"/>liament and Kingdom in relation to the war, or otherwiſe in due purſuance, and execution of Ordinances, or Orders of Parliament.</p>
+               <p n="7">VII. More particularly we deſire, that all ſuch as are impriſo<g ref="char:EOLhyphen"/>ned, for any preten<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed miſdemeanour, may be put into a ſpeedy way for a juſt hearing and tryall, and ſuch as ſhall appear to have been unjuſtly, and unduly impriſoned, may (with their liberty) have ſome reaſonable reparation accor<g ref="char:EOLhyphen"/>ding to their ſufferings, and the demerit of their oppreſ<g ref="char:EOLhyphen"/>ſors.</p>
+               <p n="8">VIII. That the large pow<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs given to Committees, or Depu<g ref="char:EOLhyphen"/>ty Lieutenants during the late times of war and deſtracti<g ref="char:EOLhyphen"/>on, may be ſpeedily taken into conſideration.</p>
+               <p n="9">IX. We could wiſh that the Kingdome might both be right<g ref="char:EOLhyphen"/>ed and publikely ſatisfied in point of accounts for the vaſt ſums that have been levyed and paid, as alſo in divers other things, wherein the Common-wealth may be conceived to have been wronged or abuſen; but wee are loath to preſſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny thing, that may tend to lengthen our future diſputes or conteſtations: but rather ſuch as may tend to a ſpeedy and generall compoſure, and quieting of mens minds, in order to peace, for which purpoſe we further propoſe.</p>
+               <p n="10">X. That publike Juſtice being firſt ſatisfied by ſome few ex<g ref="char:EOLhyphen"/>amples to poſterity, out of the worſt of excepted perſons, ſome courſe may be taken by a generall act of oblivion, &amp;c. Thus (for the preſent) I remain</p>
+               <closer>
+                  <signed>Yours, W. BVRCH.</signed>
+                  <dateline>
+                     <hi>Redburn,</hi>
+                     <date>
+                        <hi>Iune</hi> 15.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <pb facs="tcp:160296:5"/>
+               <p>It is ordered by the Lords and Commons aſſembled in Parl. That the Generall be required to deliver the perſon of the King to ſuch perſons as both houſes ſhall appoint, to bee placed at <hi>Richmond,</hi> under ſuch guards, and in ſuch manner, as they ſhall think fit, to the intent that the Propoſitions a<g ref="char:EOLhyphen"/>greed upon by both Kingdomes, may be ſpeedily preſented unto his Majeſty for the ſetling of a ſafe and well groun<g ref="char:EOLhyphen"/>ded Peace.</p>
+               <p>Ordered by the Lords and Commons aſſembled in Par<g ref="char:EOLhyphen"/>liament, That the perſons to whom the General is required to deliver the Perſon of the King to be placed at <hi>Richmond,</hi> ſhall be the Commiſſioners formerly appointed to receive the Perſon of the King at <hi>Newcaſtle,</hi> or any three of them.</p>
+               <p>Ordered by the Lords and Commons aſſembled in Par<g ref="char:EOLhyphen"/>liament, That the Guards appointed <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ceive the Orders and directions of the Commiſſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ners in attending and guar<g ref="char:EOLhyphen"/>ding the Perſon of the King, ſhall be Col. <hi>Roſſtter</hi> and his Regiment.</p>
+               <p>Theſe are the deſires of both houſes of Parliament, which if effected, its hoped will prove a ſpeedy way to compoſe all differences whatſoever.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
